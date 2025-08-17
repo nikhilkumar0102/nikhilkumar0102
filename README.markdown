@@ -7,15 +7,15 @@ B.Tech CSE (Cyber Security & Digital Forensics, 2026). Equipped to defend digita
 
 ---
 
-## 📚 About Me
-- 🎓 **Student**: B.Tech CSE (Cyber Security & Digital Forensics), VIT Bhopal, 2022–Ongoing (CGPA: 8.15).
-- 🔐 **Expertise**: Ethical Hacking, Threat Detection, Incident Response.
-- 💻 **Tech**: Python, C++, Wireshark, Nmap, Splunk.
-- 📍 **Location**: Bhopal, India.
+## About Me
+-  **Student**: B.Tech CSE (Cyber Security & Digital Forensics), VIT Bhopal, 2022–Ongoing (CGPA: 8.15).
+-  **Expertise**: Ethical Hacking, Threat Detection, Incident Response.
+-  **Tech**: Python, C++, Wireshark, Nmap, Splunk.
+-  **Location**: Bhopal, India.
 
 ---
 
-## 🚀 Key Projects
+##  Key Projects
 - **[Advanced Network Scanning](https://github.com/nikhilkumar0102/Advanced-Network-Scanning)**: Nmap/Netdiscover guide for stealth scanning.
 - **[NetScan (Python)](https://github.com/nikhilkumar0102/NetScan)**: CLI tool for automated scans.
 - **[CyberDefenders Labs](https://github.com/nikhilkumar0102/CyberDefenders-Labs)**: Blue team simulations.
@@ -24,23 +24,23 @@ B.Tech CSE (Cyber Security & Digital Forensics, 2026). Equipped to defend digita
 
 ---
 
-## 🛡️ Certifications
+##  Certifications
 - IBM Cybersecurity Analyst (SIEM, Incident Response).
 - Google Cybersecurity Certificate (Wireshark, Splunk).
 - TryHackMe Advent of Cyber 2024 (Forensics).
 
 ---
 
-## 💼 Experience
+##  Experience
 **Cybersecurity Intern – Hack Secure** (Remote, April–May 2025)
 - Handled threat detection with Splunk and Wireshark in SOC simulations.
 
 ---
 
-## 📬 Connect
-- 📧 **Email**: nikhilkumar01.name@gmail.com
-- 🔗 **LinkedIn**: [nikhil-kumar-professional](https://www.linkedin.com/in/nikhil-kumar-professional)
-- ☎️ **Phone**: +91 7903953826
+##  Connect
+-  **Email**: nikhilkumar01.name@gmail.com
+-  **LinkedIn**: [nikhil-kumar-professional](https://www.linkedin.com/in/nikhil-kumar-professional)
+-  **TryHackme**: [Let's See](https://tryhackme.com/p/Nikivickey)
 
 ---
 
