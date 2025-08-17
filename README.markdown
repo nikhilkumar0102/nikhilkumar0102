@@ -35,8 +35,8 @@ B.Tech CSE (Cyber Security & Digital Forensics, 2026). Equipped to defend digita
 **Cybersecurity Intern – Hack Secure** (Remote, April–May 2025)
 - Handled threat detection with Splunk and Wireshark in SOC simulations.
 
-**Cyberseurity Intern - Elivate Labs** (_Remote, 04 Anugust - Ongoing_)
-- 
+#### Elevate Labs Cybersecurity Internship (Remote, 04 August - Onging)
+- hands-on experience in `network security`, `vulnerability assessment`, `penetration testing`, `security monitoring`, and `incident response`
 
 ---
 
