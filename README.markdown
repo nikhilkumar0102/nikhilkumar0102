@@ -51,14 +51,17 @@ CyberDefenders, and others. Each write-up details key concepts, tools utilized, 
 from hands-on exercises spanning various cybersecurity domains.
 ```
 
-*Explore more at [my repos](https://github.com/nikhilkumar0102?tab=repositories)!*
+*Explore more at [my repos](https://github.com/nikhilkumar0102?tab=repositories) !*
 
 ---
 
 ##  Certifications
-- IBM Cybersecurity Analyst (SIEM, Incident Response).
+- Software Security Testing <packt> :  [Validate](https://github.com/nikhilkumar0102/My_Certificates/blob/main/Software%20Security%20Testing%20Certificate.pdf)
+- IBM Cybersecurity Analyst (SIEM, Incident Response) : [validate](https://github.com/nikhilkumar0102/My_Certificates/blob/main/IBM%20Security%20Analyst%20Certificate.pdf)
 - Google Cybersecurity Certificate (Wireshark, Splunk).
-- TryHackMe Advent of Cyber 2024 (Forensics).
+- TryHackMe Advent of Cyber 2024 (Forensics). [Validate](https://github.com/nikhilkumar0102/My_Certificates/blob/main/THM%20-%20Advent%20Certificate.pdf)
+
+*Check my Certs here [My Certificates](https://github.com/nikhilkumar0102/My_Certificates) !*
 
 ---
 
