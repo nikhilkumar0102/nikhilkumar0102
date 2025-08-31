@@ -3,10 +3,9 @@
 ![Cybersecurity Badge](https://img.shields.io/badge/Cybersecurity-Mastermind-blueviolet?style=for-the-badge)
 
 **Final-Year Cybersecurity Lion at VIT Bhopal University**  
-B.Tech CSE (Cyber Security & Digital Forensics, 2026).
+B.Tech CSE (Cyber Security & Digital Forensics, 2026). 
 Equipped to defend digital frontiers and join top MNCs!
 
----
 
 ## About Me
 -  **Student**: B.Tech CSE (Cyber Security & Digital Forensics), VIT Bhopal, 2022–Ongoing (CGPA: 8.15).
@@ -93,5 +92,3 @@ Why did the firewall blush? Too many "hot" packets! 😂🛡️
 *Ready to secure the future!*
 
 ---
-
-*Updated: August 17, 2025*
