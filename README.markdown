@@ -2,8 +2,9 @@
 
 ![Cybersecurity Badge](https://img.shields.io/badge/Cybersecurity-Mastermind-blueviolet?style=for-the-badge)
 
-**Final-Year Cybersecurity Titan at VIT Bhopal University**  
-B.Tech CSE (Cyber Security & Digital Forensics, 2026). Equipped to defend digital frontiers and join top MNCs!
+**Final-Year Cybersecurity Lion at VIT Bhopal University**  
+B.Tech CSE (Cyber Security & Digital Forensics, 2026).
+Equipped to defend digital frontiers and join top MNCs!
 
 ---
 
