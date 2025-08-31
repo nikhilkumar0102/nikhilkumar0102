@@ -16,6 +16,14 @@ B.Tech CSE (Cyber Security & Digital Forensics, 2026). Equipped to defend digita
 ---
 
 ##  Key Projects
+
+- **[Secure Chat App with End-to-End Encryption](https://github.com/nikhilkumar0102/Elevate_Labs-Cyber-Security-Internship/tree/main/Project2%20Chatapp)** : 
+```
+This ongoing project is a secure chat application built with Flask-SocketIO, featuring end-to-end encryption (E2EE) using
+RSA and AES. It includes user authentication, chat rooms, private messaging, and encrypted SQLite logs. The project also
+explores cybersecurity by providing a vulnerable version with an SQL injection flaw, a detector to log attacks, and a
+secure login implementation.
+```
 - **[PassGenius: Interactive Password Suite](https://github.com/nikhilkumar0102/Elevate_Labs-Cyber-Security-Internship/tree/main/Project1%20Interactive%20Password%20Suite)**:
 ```
 PassGenius is a Python-based CLI tool designed to enhance digital security. It offers advanced password strength analysis
@@ -28,6 +36,12 @@ It includes a concise security guide and features a polished, interactive UI bui
 It is a Python-based CLI network scanning tool.It leverages Nmap for efficient host discovery, port scanning, service
 enumeration, and vulnerability detection. Designed for network administrators and security professionals, it offers
 both command-line and interactive modes with detailed reporting and scan history tracking.
+```
+- **[Advanced Network Scanning Via-Nmap](https://github.com/nikhilkumar0102/Advanced-Network-Scanning)** :
+```
+Advanced-Network-Scanning is a comprehensive toolkit showcasing sophisticated network reconnaissance methods with tools like
+Nmap and Netdiscover. It includes techniques for stealth scanning, firewall evasion, OS fingerprinting, and automated report
+generation, tailored for ethical hacking and penetration testing.
 ```
 
 - **[Labs-Writeups](https://github.com/nikhilkumar0102/Cyber-Lab-Writeups)**:
