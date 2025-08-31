@@ -30,7 +30,12 @@ enumeration, and vulnerability detection. Designed for network administrators an
 both command-line and interactive modes with detailed reporting and scan history tracking.
 ```
 
-- **[CyberDefenders Labs](https://github.com/nikhilkumar0102/CyberDefenders-Labs)**: Blue team simulations.
+- **[Labs-Writeups](https://github.com/nikhilkumar0102/Cyber-Lab-Writeups)**:
+```
+Write-ups from cybersecurity labs, challenges, and Capture The Flag (CTF) events completed on platforms like TryHackMe,
+CyberDefenders, and others. Each write-up details key concepts, tools utilized, step-by-step solutions, and lessons learned
+from hands-on exercises spanning various cybersecurity domains.
+```
 
 *Explore more at [my repos](https://github.com/nikhilkumar0102?tab=repositories)!*
 
