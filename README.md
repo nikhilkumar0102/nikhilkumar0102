@@ -4,7 +4,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nikhilkumar0102&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
-# 🛡️ Nikhil Kumar
+#  Nikhil Kumar
 
 ### Cybersecurity Analyst | Red Team & Blue Team Operations | Security Researcher
 
@@ -20,7 +20,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 Final-year **B.Tech Computer Science & Engineering** student specializing in **Cybersecurity & Digital Forensics** at **VIT Bhopal University** (CGPA: 8.15/10). Aspiring **Cybersecurity Analyst** with a dual focus on **Red Team offensive operations** and **Blue Team defensive strategies**. Passionate about threat hunting, building security tools, and conducting comprehensive security assessments.
 
@@ -28,7 +28,7 @@ Final-year **B.Tech Computer Science & Engineering** student specializing in **C
 
 <div align="center">
 
-### 🎯 Security Focus Areas
+###  Security Focus Areas
 
 🔴 **Red Team** • Penetration Testing • Vulnerability Research • Tool Development  
 🔵 **Blue Team** • Threat Detection • Incident Response • Security Monitoring • SIEM Analysis
@@ -37,7 +37,7 @@ Final-year **B.Tech Computer Science & Engineering** student specializing in **C
 
 ---
 
-## 🎯 Core Competencies
+##  Core Competencies
 
 <table>
 <tr>
@@ -94,7 +94,7 @@ Final-year **B.Tech Computer Science & Engineering** student specializing in **C
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 🔴 [NetGuardian - SOC PCAP Analyzer](https://github.com/nikhilkumar0102/NetGuardian---SOC-PCAP-Analyzer)
 **Advanced network forensics tool for SOC analysts**
@@ -158,7 +158,7 @@ Final-year **B.Tech Computer Science & Engineering** student specializing in **C
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
-## 📚 Security Research & Documentation
+##  Security Research & Documentation
 
 ### 📝 [CTF Writeups & Lab Solutions](https://github.com/nikhilkumar0102/Cyber-Lab-Writeups)
 Comprehensive documentation of solved challenges from:
@@ -203,10 +203,10 @@ Obsidian-based cybersecurity reference repository:
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
-## 💼 Professional Experience
+##  Professional Experience
 
 ### Cybersecurity Intern | **Elevate Labs** (Remote)
-*August 2025 - September 2025*
+*August 2024 - Present*
 - Conducting penetration testing and vulnerability assessments on web applications
 - Developing custom security tools for network monitoring and threat detection
 - Performing security audits and creating detailed remediation reports
@@ -230,7 +230,7 @@ Obsidian-based cybersecurity reference repository:
 - 🥇 **Completed TryHackMe Advent of Cyber 2024** - Top 5% completion rate
 - 🔧 **Built 7+ Production-Ready Security Tools** - Downloaded by 50+ security professionals
 - 📊 **Published Security Research** on Medium with 1000+ reads
-- 🎯 **CGPA 8.15/10** in specialized Cybersecurity program
+- 🎯 **CGPA 8.19/10** in specialized Cybersecurity program
 - 🛡️ **Active Contributor** to cybersecurity community through writeups and tools
 
 ---
@@ -279,25 +279,7 @@ Automation         : Python (Requests, Scapy, Socket), Bash scripting
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilkumar0102&custom_title=Contribution%20Graph&bg_color=0d1117&color=7f3fbf&line=7f3fbf&point=7f3fbf&area_color=7f3fbf&title_color=58a6ff&area=true&hide_border=true" width="95%">
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=nikhilkumar0102&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="100%">
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilkumar0102&theme=radical&hide_border=true" width="100%">
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilkumar0102&layout=compact&theme=radical&hide_border=true&langs_count=8" width="50%">
-    </td>
-  </tr>
-</table>
-
-<img src="https://github-profile-trophy.vercel.app/?username=nikhilkumar0102&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilkumar0102&theme=radical&hide_border=true" width="50%" alt="GitHub Streak">
 
 </div>
 
@@ -374,7 +356,7 @@ I'm actively seeking opportunities in **Cybersecurity Analyst** roles where I ca
 
 <br>
 
-**💬 Response Time:** Within 24 hours | **🌐 Time Zone:** IST (UTC+5:30)
+**Response Time:** Within 24 hours | **Time Zone:** IST (UTC+5:30)
 
 </div>
 
@@ -386,9 +368,9 @@ I'm actively seeking opportunities in **Cybersecurity Analyst** roles where I ca
 
 ### 💡 "In cybersecurity, there are two types of companies: those that have been hacked, and those that don't know they've been hacked."
 
-**🎯 Open to Opportunities:** Cybersecurity Analyst | SOC Analyst | Security Engineer | Penetration Tester
+**Open to Opportunities:** Cybersecurity Analyst | SOC Analyst | Security Engineer | Penetration Tester
 
-**🚀 Available:** Immediate | **📍 Location:** Bhopal, India (Open to Relocation)
+**Available:** Immediate | **📍 Location:** Bhopal, India (Open to Relocation)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="700">
 
