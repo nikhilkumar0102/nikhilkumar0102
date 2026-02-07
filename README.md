@@ -206,7 +206,7 @@ Obsidian-based cybersecurity reference repository:
 ## 💼 Professional Experience
 
 ### Cybersecurity Intern | **Elevate Labs** (Remote)
-*August 2024 - Present*
+*August 2025 - September 2025*
 - Conducting penetration testing and vulnerability assessments on web applications
 - Developing custom security tools for network monitoring and threat detection
 - Performing security audits and creating detailed remediation reports
