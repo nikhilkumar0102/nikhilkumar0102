@@ -1,6 +1,6 @@
 <div align="center">
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nikhil%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cybersecurity%20Analyst%20|%20Red%20Team%20%26%20Blue%20Team&descSize=16&descAlignY=51)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Nikhil%20Kumar&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Cybersecurity%20Analyst%20-%20Red%20Team%20and%20Blue%20Team&descSize=18&descAlignY=55"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nikhilkumar0102&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
