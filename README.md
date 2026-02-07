@@ -22,7 +22,7 @@
 
 ##  About Me
 
-Final-year **B.Tech Computer Science & Engineering** student specializing in **Cybersecurity & Digital Forensics** at **VIT Bhopal University** (CGPA: 8.15/10). Aspiring **Cybersecurity Analyst** with a dual focus on **Red Team offensive operations** and **Blue Team defensive strategies**. Passionate about threat hunting, building security tools, and conducting comprehensive security assessments.
+Final-year **B.Tech Computer Science & Engineering** student specializing in **Cybersecurity & Digital Forensics** at **VIT Bhopal University** (CGPA: 8.19/10). Aspiring **Cybersecurity Analyst** with a dual focus on **Red Team offensive operations** and **Blue Team defensive strategies**. Passionate about threat hunting, building security tools, and conducting comprehensive security assessments.
 
 **Currently seeking:** Entry-level Cybersecurity Analyst, SOC Analyst, or Security Engineer roles where I can apply my hands-on experience in both offensive and defensive security operations.
 
