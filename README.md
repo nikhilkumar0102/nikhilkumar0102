@@ -4,63 +4,61 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nikhilkumar0102&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
-#  Nikhil Kumar
+# Nikhil Kumar
 
-### Cybersecurity Analyst | Red Team & Blue Team Operations | Security Researcher
+### Cybersecurity Analyst | Red Team & Blue Team | Security Researcher
 
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-4A90E2?style=for-the-badge)](https://my-portfolio-nikhilkumar0102s-projects.vercel.app/)
 [![Resume](https://img.shields.io/badge/📄_Resume-Download-FF6B6B?style=for-the-badge)](https://github.com/nikhilkumar0102/My_Resume)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nikhil-kumar-professional)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-C11111?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/Nikivickey)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/nikhilkumar0102)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%202%25-C11111?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/Nikivickey)
 [![CyberDefenders](https://img.shields.io/badge/CyberDefenders-Profile-00C853?style=for-the-badge)](https://cyberdefenders.org/p/Nikhil_0102)
 [![Medium](https://img.shields.io/badge/Medium-Articles-12100E?style=for-the-badge&logo=medium)](https://medium.com/@nikhilkumar01.name)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
 </div>
 
 ---
 
-##  About Me
+## About Me
 
-Final-year **B.Tech Computer Science & Engineering** student specializing in **Cybersecurity & Digital Forensics** at **VIT Bhopal University** (CGPA: 8.19/10). Aspiring **Cybersecurity Analyst** with a dual focus on **Red Team offensive operations** and **Blue Team defensive strategies**. Passionate about threat hunting, building security tools, and conducting comprehensive security assessments.
+Final-year **B.Tech Computer Science & Engineering** student specializing in **Cybersecurity & Digital Forensics** at **VIT Bhopal University** (CGPA: 8.21/10). Aspiring **Cybersecurity Analyst** with hands-on experience across both **Red Team offensive operations** and **Blue Team defensive strategies**.
 
-**Currently seeking:** Entry-level Cybersecurity Analyst, SOC Analyst, or Security Engineer roles where I can apply my hands-on experience in both offensive and defensive security operations.
+**Currently seeking:** Entry-level Cybersecurity Analyst, SOC Analyst, or Security Engineer roles.
 
 <div align="center">
 
-###  Security Focus Areas
+### Security Focus Areas
 
-🔴 **Red Team** • Penetration Testing • Vulnerability Research • Tool Development  
-🔵 **Blue Team** • Threat Detection • Incident Response • Security Monitoring • SIEM Analysis
+🔴 **Red Team** — Penetration Testing · Vulnerability Research · Tool Development  
+🔵 **Blue Team** — Threat Detection · Incident Response · SIEM Analysis · Log Forensics
 
 </div>
 
 ---
 
-##  Core Competencies
+## Core Competencies
 
 <table>
 <tr>
 <td width="50%">
 
-### 🔴 Red Team Operations
+### 🔴 Red Team
 - Web Application Penetration Testing
 - Network Reconnaissance & Scanning
 - Vulnerability Assessment & Exploitation
 - Custom Offensive Tool Development
-- Social Engineering Simulations
 - Post-Exploitation Techniques
 
 </td>
 <td width="50%">
 
-### 🔵 Blue Team Operations
+### 🔵 Blue Team
 - Security Monitoring & SIEM Analysis
 - Network Traffic Analysis & PCAP Forensics
 - Threat Detection & Hunting
 - Incident Response & Documentation
 - Log Analysis (Splunk, ELK)
-- Security Configuration & Hardening
 
 </td>
 </tr>
@@ -69,20 +67,18 @@ Final-year **B.Tech Computer Science & Engineering** student specializing in **C
 
 ### 🛠️ Security Engineering
 - Python Security Automation
-- Security Tool Development
+- Bash Scripting for Security Operations
 - API Security Testing
 - Secure Coding Practices
-- Scripting for Security Operations
 
 </td>
 <td width="50%">
 
-### 📋 Frameworks & Compliance
+### 📋 Frameworks
 - MITRE ATT&CK Framework
 - OWASP Top 10
 - CIS Benchmarks
 - Kill Chain Methodology
-- Security Best Practices
 
 </td>
 </tr>
@@ -90,192 +86,114 @@ Final-year **B.Tech Computer Science & Engineering** student specializing in **C
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
+## Featured Projects
 
-##  Featured Projects
+### ⚫ [SentryCLI — Modular Security CLI](https://github.com/nikhilkumar0102/SentryCLI)
+**29-module Bash CLI platform for security operations** · `Feb 2026 – Ongoing`
+- Architected a REPL-based CLI with plugin registry across Network & Infrastructure, Threat Intelligence, and Web Application Analysis modules
+- Built an automated SIEM-style correlation pipeline integrating log analysis, IP threat intelligence, and breach detection across **6 APIs** (VirusTotal, AbuseIPDB, HaveIBeenPwned, Hunter.io, Censys) — reducing manual investigation by ~70%
+- Developed multi-source email harvesting and breach detection with automated risk-scored reporting
+- **Tech Stack:** Bash · Shell · REST APIs (AbuseIPDB, VirusTotal, Censys)
 
-### 🔴 [NetGuardian - SOC PCAP Analyzer](https://github.com/nikhilkumar0102/NetGuardian---SOC-PCAP-Analyzer)
-**Advanced network forensics tool for SOC analysts**
-- Automated detection of ARP poisoning, credential exposure, and DNS exfiltration attacks
-- MITRE ATT&CK framework mapping for threat intelligence
-- Interactive cyberpunk-themed terminal UI with comprehensive reporting
-- **Tech Stack:** Python, Scapy, Rich, JSON
-- **Impact:** Reduces PCAP analysis time by 70% through automated threat detection
-
-### 🔵 [RedPhantom - Red Team Framework](https://github.com/nikhilkumar0102/RedPhantom-RTF-)
-**Modular offensive security framework for adversary simulation**
-- End-to-end red team operations: reconnaissance, exploitation, post-exploitation, lateral movement
-- Credential intelligence gathering and privilege escalation modules
-- Engagement-aware operation logging and stealth techniques
-- **Tech Stack:** Python, Socket Programming, Cryptography
-- **Use Case:** Security team training and infrastructure resilience testing
+### 🔴 [RedPhantom-RTF — Red Team Automation Framework](https://github.com/nikhilkumar0102/RedPhantom-RTF-)
+**Modular offensive security framework for adversary simulation** · `Dec 2025 – Jan 2026`
+- Engineered a Python 3.8+ red team framework with plugin-based architecture for automated reconnaissance — subdomain enumeration, TCP/UDP port scanning, service fingerprinting, and multi-target vulnerability assessment
+- Integrated dual AI providers (OpenAI GPT-4, Google Gemini) for MITRE ATT&CK mapping, CVSS-based risk scoring, and automated security reporting
+- Implemented enterprise safety controls: read-only scanning, rate limiting, audit logging, and compliance-aligned non-exploitative operations
+- **Tech Stack:** Python · OpenAI/Gemini API · Socket Programming
 
 ### 🟢 [Linux CIS Audit Tool](https://github.com/nikhilkumar0102/Linux-cis-audit)
-**AI-enhanced security compliance auditing system**
-- Automated CIS Benchmark compliance checking for Debian-based systems
-- Google Gemini API integration for intelligent remediation recommendations
-- Color-coded security posture scoring with detailed reporting
-- **Tech Stack:** Python, Bash, Google Gemini API
-- **Achievement:** 95%+ accuracy in identifying misconfigurations
+**Automated CIS Benchmark compliance auditing for Linux systems** · `Sep 2025`
+- Validates 50+ CIS Benchmark controls for Debian-based systems including SSH hardening, file permissions, and firewall policies
+- Engineered configuration parsers for SSH daemon, filesystem mounts, and auditing services (auditd)
+- Integrated Google Gemini API for context-aware remediation recommendations, reducing manual remediation time by 60%
+- **Tech Stack:** Python · Bash · CIS Framework · Gemini API
 
 ### 🟡 [Secure E2E Encrypted Chat Application](https://github.com/nikhilkumar0102/Elevate_Labs-Cyber-Security-Internship/tree/main/Project2%20Chatapp)
 **Production-ready secure messaging platform**
-- End-to-end encryption using RSA-2048 and AES-256
-- Flask-SocketIO real-time communication with SQLite encrypted logging
-- Built-in SQL injection vulnerability demonstrator with attack detection
-- **Tech Stack:** Python, Flask, SQLAlchemy, Cryptography
-- **Security:** Implements zero-knowledge architecture for message privacy
-
-### 🟠 [XSS Context-Aware Scanner](https://github.com/nikhilkumar0102/XSS-Scanner)
-**Intelligent XSS vulnerability detection system**
-- Context-aware payload generation (HTML, attributes, scripts, JSON)
-- Multi-threaded scanning with adaptive injection techniques
-- False positive reduction through DOM analysis
-- **Tech Stack:** Python, Requests, BeautifulSoup, Threading
-- **Detection Rate:** 89% success rate on DVWA and PortSwigger labs
-
-### 🟣 [PassGenius - Password Security Suite](https://github.com/nikhilkumar0102/Elevate_Labs-Cyber-Security-Internship/tree/main/Project1%20Interactive%20Password%20Suite)
-**Comprehensive password security toolkit**
-- Real-time password strength analysis with crack time estimation
-- Have I Been Pwned API integration for breach checking (privacy-preserving)
-- Secure password generation with contextual wordlist creation
-- **Tech Stack:** Python, Rich, Hashlib, Requests
-- **Features:** Entropy calculation, pattern detection, interactive CLI
-
-### ⚫ [NetScan - Network Automation Tool](https://github.com/nikhilkumar0102/NetScan)
-**Professional network reconnaissance platform**
-- Automated host discovery, port scanning, and service enumeration
-- Vulnerability detection with CVE mapping
-- Scan history tracking and detailed HTML/JSON reporting
-- **Tech Stack:** Python, Nmap, Python-Nmap
-- **Usage:** SOC teams, penetration testers, network administrators
+- End-to-end encryption using AES-256 with socket-based client-server architecture
+- User authentication, session management, and breach database verification via HIBP API
+- **Tech Stack:** Python · Flask · SQLAlchemy · Cryptography
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
-
-##  Security Research & Documentation
+## Security Research & Documentation
 
 ### 📝 [CTF Writeups & Lab Solutions](https://github.com/nikhilkumar0102/Cyber-Lab-Writeups)
-Comprehensive documentation of solved challenges from:
-- **TryHackMe:** 50+ rooms completed (Advent of Cyber 2024 participant)
+Documented solutions from:
+- **TryHackMe:** 144+ rooms completed — Top 2% globally (Guru status)
 - **CyberDefenders:** Blue team forensics challenges
-- **PortSwigger Academy:** Web security labs with detailed exploitation steps
+- **PortSwigger Academy:** Web security labs with exploitation walkthroughs
 - **Topics:** SIEM analysis, digital forensics, web exploitation, privilege escalation
 
-### 🌐 [Advanced Network Scanning Techniques](https://github.com/nikhilkumar0102/Advanced-Network-Scanning)
-Professional-grade reconnaissance methodology repository featuring:
-- Stealth scanning and firewall evasion techniques
-- OS fingerprinting and service version detection
-- Automated report generation and vulnerability correlation
-- Real-world penetration testing scenarios
-
 ### 📖 [Security Knowledge Base](https://github.com/nikhilkumar0102/Security-knowledge-base)
-Obsidian-based cybersecurity reference repository:
-- Structured notes on security concepts, tools, and methodologies
-- Hands-on learning documentation across multiple security domains
-- Personal research and practical insights
+Obsidian-based cybersecurity reference repository covering security concepts, tools, and methodologies built through hands-on lab work.
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
-
-## 🎓 Certifications & Training
-
-| Certification | Issuer | Focus Area | Credential |
-|--------------|--------|------------|------------|
-| **IBM Cybersecurity Analyst** | IBM/Coursera | SIEM, Incident Response, Threat Intelligence | [Verify](https://github.com/nikhilkumar0102/My_Certificates/blob/main/IBM%20Security%20Analyst%20Certificate.pdf) |
-| **Google Cybersecurity Professional** | Google/Coursera | Network Security, Linux, Python, Wireshark, Splunk | [Verify](https://github.com/nikhilkumar0102/My_Certificates) |
-| **Software Security Testing** | Academic | Application Security, Code Review | [Verify](https://github.com/nikhilkumar0102/My_Certificates/blob/main/Software%20Security%20Testing%20Certificate.pdf) |
-| **TryHackMe Advent of Cyber 2024** | TryHackMe | Digital Forensics, Log Analysis | [Verify](https://github.com/nikhilkumar0102/My_Certificates/blob/main/THM%20-%20Advent%20Certificate.pdf) |
-
-**[→ View All Certifications](https://github.com/nikhilkumar0102/My_Certificates)**
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
-
-##  Professional Experience
+## Professional Experience
 
 ### Cybersecurity Intern | **Elevate Labs** (Remote)
-*August 2024 - Present*
-- Conducting penetration testing and vulnerability assessments on web applications
-- Developing custom security tools for network monitoring and threat detection
-- Performing security audits and creating detailed remediation reports
-- **Projects:** E2E encrypted chat app, password security suite, network scanning tools
-
-### SOC Analyst Intern | **Hack Secure** (Remote)
-*April 2025 - May 2025*
-- Monitored security events using Splunk SIEM in simulated SOC environment
-- Conducted network traffic analysis with Wireshark for anomaly detection
-- Participated in incident response exercises and threat hunting operations
-- Documented security incidents and created playbooks for common attack scenarios
+`August 2025 – September 2025`
+- Conducted security assessments including vulnerability scanning with Nmap, phishing email analysis, and network reconnaissance to map attack surfaces across test environments
+- Implemented layered security controls — firewall rule configuration (UFW/iptables), VPN deployment for encrypted connectivity, and endpoint security remediation
+- Performed network traffic analysis and digital forensics using Wireshark to decode packets, analyze protocol behavior, and identify anomalous patterns indicative of incidents or data exfiltration
+- Built a secure Python chat application with AES-256 encryption, socket-based architecture, and HIBP API integration for breach validation
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
+## Achievements
 
-## 🏆 Key Achievements
-
-- 🥇 **Completed TryHackMe Advent of Cyber 2024** - Top 5% completion rate
-- 🔧 **Built 7+ Production-Ready Security Tools** - Downloaded by 50+ security professionals
-- 📊 **Published Security Research** on Medium with 1000+ reads
-- 🎯 **CGPA 8.19/10** in specialized Cybersecurity program
-- 🛡️ **Active Contributor** to cybersecurity community through writeups and tools
+- 🏆 **Top 10 Finalist, HackSecure CTF (2025)** — University-wide Capture The Flag competition
+- 🥈 **2nd Prize, Technical Presentation — Cranes Varsity (2025)** — "Digital Forensics: Uncovering Evidence in the Digital World"
+- 🌍 **TryHackMe Top 2% Global Rank (Guru)** — 144+ practical labs completed among 3M+ users
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
+## Certifications
 
-## 🧰 Technical Toolkit
+| Certification | Issuer |
+|---|---|
+| Jr. Penetration Tester | TryHackMe |
+| Cyber Security Analyst | IBM / Coursera |
+| Advent SOC | TryHackMe |
+| SOC L1 | TryHackMe |
+| Web Fundamentals | TryHackMe |
+| Network Fundamentals | EC-Council |
+| Pre Security | TryHackMe |
 
-### Languages & Scripting
+**[→ View All Certificates](https://github.com/nikhilkumar0102/My_Certificates)**
+
+---
+
+## Technical Toolkit
+
+**Languages & Scripting**
+
 ![Python](https://img.shields.io/badge/Python-Proficient-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-Intermediate-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-Familiar-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Familiar-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### Security Tools & Platforms
+**Security Tools**
 ```
-Reconnaissance     : Nmap, Netdiscover, Shodan, Amass
-Web Security       : Burp Suite, OWASP ZAP, Nikto, SQLMap
-Network Analysis   : Wireshark, tcpdump, Scapy
-Exploitation       : Metasploit, Searchsploit, ExploitDB
-SIEM & Monitoring  : Splunk, ELK Stack
-Forensics          : Volatility, Autopsy, Binwalk
-Automation         : Python (Requests, Scapy, Socket), Bash scripting
+Reconnaissance   : Nmap, Netdiscover, Shodan, Amass
+Web Security     : Burp Suite, OWASP ZAP, Nikto, SQLMap
+Network Analysis : Wireshark, tcpdump, Scapy
+Exploitation     : Metasploit, Searchsploit, ExploitDB
+SIEM             : Splunk, ELK Stack
+Forensics        : Volatility, Autopsy, Binwalk
+Automation       : Python (Requests, Scapy, Socket), Bash
 ```
 
-### Operating Systems & Environments
+**Operating Systems**
 - **Primary:** Kali Linux, Parrot Security OS
 - **Proficient:** Ubuntu, Debian, Windows 10/11
 - **Virtualization:** VirtualBox, VMware
 
-### Development & DevSecOps
-- **Version Control:** Git, GitHub
-- **Containers:** Docker (basics)
-- **CI/CD Security:** Basic understanding of pipeline security
-- **Secure Coding:** OWASP Top 10 compliance, input validation, encryption
-
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
-
-## 📊 GitHub Analytics
+## GitHub Stats
 
 <div align="center">
 
@@ -285,78 +203,34 @@ Automation         : Python (Requests, Scapy, Socket), Bash scripting
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
-
-## 📬 Let's Connect & Collaborate
+## 📬 Let's Connect
 
 <div align="center">
 
-I'm actively seeking opportunities in **Cybersecurity Analyst** roles where I can leverage my skills in both **offensive and defensive security operations**. Whether you're recruiting, collaborating on security research, or want to discuss the latest threats and vulnerabilities, I'd love to connect!
+Open to **Cybersecurity Analyst**, **SOC Analyst**, and **Security Engineer** roles.  
+Feel free to reach out for opportunities, collaborations, or security discussions.
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40" style="margin: 0 10px;"> **Reach Out to Me** <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40" style="margin: 0 10px;">
+<br/>
 
-<br>
+### 🌐 Find Me Online
 
-<table align="center">
-  <tr>
-    <td align="center" width="25%">
-      <a href="mailto:nikhilkumar01.name@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-      </a>
-      <br>📧 Email
-    </td>
-    <td align="center" width="25%">
-      <a href="https://www.linkedin.com/in/nikhil-kumar-professional">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
-      <br>💼 LinkedIn
-    </td>
-    <td align="center" width="25%">
-      <a href="https://tryhackme.com/p/Nikivickey">
-        <img src="https://img.shields.io/badge/TryHackMe-C11111?style=for-the-badge&logo=tryhackme&logoColor=white" />
-      </a>
-      <br>🎯 TryHackMe
-    </td>
-    <td align="center" width="25%">
-      <a href="https://medium.com/@nikhilkumar01.name">
-        <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-      </a>
-      <br>✍️ Medium
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="25%">
-      <a href="https://cyberdefenders.org/p/Nikhil_0102">
-        <img src="https://img.shields.io/badge/CyberDefenders-00C853?style=for-the-badge" />
-      </a>
-      <br>🛡️ CyberDefenders
-    </td>
-    <td align="center" width="25%">
-      <a href="https://github.com/nikhilkumar0102/My_Resume">
-        <img src="https://img.shields.io/badge/Resume-FF6B6B?style=for-the-badge&logo=readme&logoColor=white" />
-      </a>
-      <br>📄 Resume
-    </td>
-    <td align="center" width="25%">
-      <a href="https://github.com/nikhilkumar0102">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      <br>💻 GitHub
-    </td>
-    <td align="center" width="25%">
-      <a href="https://github.com/nikhilkumar0102?tab=repositories">
-        <img src="https://img.shields.io/badge/Projects-4A148C?style=for-the-badge&logo=codefactor&logoColor=white" />
-      </a>
-      <br>🚀 Projects
-    </td>
-  </tr>
-</table>
+<br/>
 
-<br>
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Site-4A90E2?style=for-the-badge)](https://my-portfolio-nikhilkumar0102s-projects.vercel.app/)&nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/📧%20Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhilkumar01.name@gmail.com)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-kumar-professional)&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/💻%20GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikhilkumar0102)
 
-**Response Time:** Within 24 hours | **Time Zone:** IST (UTC+5:30)
+<br/>
+
+[![TryHackMe](https://img.shields.io/badge/🎯%20TryHackMe-Top%202%25%20Guru-C11111?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Nikivickey)&nbsp;&nbsp;
+[![CyberDefenders](https://img.shields.io/badge/🛡️%20CyberDefenders-Profile-00C853?style=for-the-badge)](https://cyberdefenders.org/p/Nikhil_0102)&nbsp;&nbsp;
+[![Medium](https://img.shields.io/badge/✍️%20Medium-Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nikhilkumar01.name)&nbsp;&nbsp;
+[![Resume](https://img.shields.io/badge/📄%20Resume-Download-FF6B6B?style=for-the-badge)](https://github.com/nikhilkumar0102/My_Resume)
+
+<br/>
+
+📍 **Ahmedabad, India** &nbsp;·&nbsp; 🕐 **IST (UTC+5:30)** &nbsp;·&nbsp; ✈️ **Open to Relocation** &nbsp;·&nbsp; ⚡ **Response within 24 hrs**
 
 </div>
 
@@ -364,16 +238,8 @@ I'm actively seeking opportunities in **Cybersecurity Analyst** roles where I ca
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+> *"In cybersecurity, there are two types of companies: those that have been hacked, and those that don't know they've been hacked."*
 
-### 💡 "In cybersecurity, there are two types of companies: those that have been hacked, and those that don't know they've been hacked."
-
-**Open to Opportunities:** Cybersecurity Analyst | SOC Analyst | Security Engineer | Penetration Tester
-
-**Available:** Immediate | **📍 Location:** Bhopal, India (Open to Relocation)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="700">
-
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
 </div>
